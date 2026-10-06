@@ -1,5 +1,5 @@
 {
-  "server_url": "168.144.78.207:4154",
+  "server_url": "nodeikyy.smasnug.web.id:2009",
   "base_url": "http://{server_url}",
   "ws_url": "wss://ws-{server_url}"
 }
